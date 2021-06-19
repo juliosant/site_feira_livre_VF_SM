@@ -1,0 +1,95 @@
+#carouselExampleSlidesOnly .carousel-inner .carousel-item {
+    height: 768px;
+    background: url('../images/banner_main.png') no-repeat center;
+}
+
+.container .row #image_about{
+    width: 358px;
+    height: 251px;
+    background: url('../images/image_about.png') no-repeat center;
+}
+
+.container .row .col .card #roupa{
+    height: 256px;
+    background: url('../images/roupas.png') no-repeat center;
+}
+
+.container .row .col .card #legumes{
+    height: 256px;
+    background: url('../images/legumes.png') no-repeat center;
+}
+
+.container .row .col .card #bijuterias{
+    height: 256px;
+    background: url('../images/bijuterias.png') no-repeat center;
+}
+
+.container .row .col .card #vendedora_roupa{
+    height: 256px;
+    background: url('../images/feirante_2.jpeg') no-repeat center;
+}
+
+.container .row .col .card #vendedora_alimentos{
+    height: 256px;
+    background: url('../images/feirante_1.jpeg') no-repeat center;
+}
+
+.container .row .col .card #vendedor_roupa{
+    height: 256px;
+    background: url('../images/feirante_3.jpg') no-repeat center;
+}
+
+.rodape {
+    background-color: #cfbebe;
+    padding: 5px;
+    margin: auto;
+}
+
+h1 {
+    color: #8f0e0e;
+    font-size: 75px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #444;
+}
+  
+a:hover {
+    color: #e73939;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 940px;
+}
+
+footer {
+    height: 150px;
+    padding: 20px 0;
+    
+}
+  
+#info-rodape {
+    width: 380px;
+    float: left;
+    margin-top: 10px;
+}
+  
+#links-rodape {
+    width: 520px;
+    float: right;
+}
+  
+#links-rodape ul {
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+}
+  
+#links-rodape ul li {
+    margin: 10px 0;
+}
